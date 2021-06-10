@@ -1,0 +1,81 @@
+{
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-06-03 09:43:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-06-03 09:43:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-06-03 09:43:42 +0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2021-06-03 09:43:13 +0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2021-06-03 09:43:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-06-03 09:43:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-06-03 09:43:42 +0700"
+    },
+    "done": true
+  },
+  "global:boomber": {
+    "criteria": {
+      "trigger": "2021-06-03 09:43:13 +0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2021-06-03 09:43:13 +0700"
+    },
+    "done": true
+  },
+  "boomber:shulker_mob": {
+    "criteria": {
+      "trigger": "2021-06-03 09:43:13 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-06-03 09:43:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-06-03 09:43:42 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:taiga": "2021-06-03 09:43:13 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

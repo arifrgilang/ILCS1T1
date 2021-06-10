@@ -1,0 +1,106 @@
+{
+  "minecraft:recipes/food/bread": {
+    "criteria": {
+      "has_wheat": "2021-06-08 17:12:54 +0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:root": {
+    "criteria": {
+      "tick": "2021-06-08 17:09:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "in_water": "2021-06-08 17:09:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "in_water": "2021-06-08 17:09:38 +0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:cauldron_concrete": {
+    "criteria": {
+      "tick": "2021-06-08 17:09:14 +0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:multiplayer_sleep": {
+    "criteria": {
+      "tick": "2021-06-08 17:09:14 +0700"
+    },
+    "done": true
+  },
+  "vanillatweaks:fast_leaf_decay": {
+    "criteria": {
+      "tick": "2021-06-08 17:09:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "in_water": "2021-06-08 17:09:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/oak_boat": {
+    "criteria": {
+      "in_water": "2021-06-08 17:09:38 +0700"
+    },
+    "done": true
+  },
+  "global:boomber": {
+    "criteria": {
+      "trigger": "2021-06-08 17:09:14 +0700"
+    },
+    "done": true
+  },
+  "global:root": {
+    "criteria": {
+      "trigger": "2021-06-08 17:09:14 +0700"
+    },
+    "done": true
+  },
+  "boomber:shulker_mob": {
+    "criteria": {
+      "trigger": "2021-06-08 17:09:14 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "in_water": "2021-06-08 17:09:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "in_water": "2021-06-08 17:09:38 +0700"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/hay_block": {
+    "criteria": {
+      "has_wheat": "2021-06-08 17:12:54 +0700"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:forest": "2021-06-08 17:11:09 +0700",
+      "minecraft:taiga": "2021-06-08 17:09:14 +0700",
+      "minecraft:taiga_hills": "2021-06-08 17:11:03 +0700",
+      "minecraft:beach": "2021-06-08 17:12:12 +0700",
+      "minecraft:dark_forest": "2021-06-08 17:11:16 +0700",
+      "minecraft:river": "2021-06-08 17:11:07 +0700",
+      "minecraft:wooded_hills": "2021-06-08 17:16:41 +0700",
+      "minecraft:plains": "2021-06-08 17:12:43 +0700"
+    },
+    "done": false
+  },
+  "DataVersion": 2586
+}

@@ -1,0 +1,53 @@
+[00:00:11] [Server thread/INFO]: aragiru lost connection: Timed out
+[00:00:11] [Server thread/INFO]: aragiru left the game
+[00:00:19] [Server thread/INFO]: aragiru[/114.124.195.39:16647] logged in with entity id 366144 at (443.41678861837136, 86.70185568628638, 1309.4230597330613)
+[00:00:19] [Server thread/INFO]: aragiru joined the game
+[00:00:22] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 3011ms or 60 ticks behind
+[00:00:52] [Server thread/INFO]: aragiru lost connection: Timed out
+[00:00:52] [Server thread/INFO]: aragiru left the game
+[00:01:00] [Server thread/INFO]: aragiru[/114.124.195.103:46860] logged in with entity id 366410 at (443.37058602931313, 74.03669304090475, 1309.6005205651138)
+[00:01:00] [Server thread/INFO]: aragiru joined the game
+[00:19:41] [Server thread/INFO]: [aragiru: Teleported aragiru to 800.500000, 65.000000, 1000.500000]
+[00:19:49] [Server thread/WARN]: Can't keep up! Is the server overloaded? Running 2023ms or 40 ticks behind
+[00:25:36] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1197, y=58, z=787} gg{x=1197, y=57, z=785}
+[00:26:12] [Server thread/WARN]: aragiru moved wrongly!
+[00:44:03] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1227, y=16, z=795} gg{x=1226, y=16, z=795}
+[00:44:03] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1227, y=16, z=795} gg{x=1226, y=16, z=795}
+[00:44:03] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1227, y=16, z=795} gg{x=1226, y=16, z=795}
+[00:44:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1226, y=16, z=796} gg{x=1226, y=15, z=797}
+[00:44:15] [Server thread/WARN]: Mismatch in destroy block pos: gg{x=1226, y=16, z=796} gg{x=1226, y=15, z=797}
+[00:52:15] [Server thread/INFO]: [aragiru: Set own game mode to Spectator Mode]
+[00:53:33] [Server thread/INFO]: [aragiru: Teleported aragiru to 800.500000, 65.000000, 1000.500000]
+[00:53:37] [Server thread/INFO]: [aragiru: Set own game mode to Survival Mode]
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/WARN]: aragiru was kicked for floating too long!
+[00:53:42] [Server thread/INFO]: aragiru lost connection: Flying is not enabled on this server
+[00:53:42] [Server thread/INFO]: aragiru left the game
+[00:53:51] [Server thread/INFO]: aragiru[/114.124.195.167:17465] logged in with entity id 378942 at (780.9470801121644, 65.0, 1021.4833814419538)
+[00:53:51] [Server thread/INFO]: aragiru joined the game
+[01:06:32] [Server thread/INFO]: aragiru lost connection: Disconnected
+[01:06:32] [Server thread/INFO]: aragiru left the game
+[02:03:48] [Server thread/INFO]: RokuOji[/180.244.130.32:22079] logged in with entity id 381512 at (846.2316038600164, 110.0, 1028.8781649757468)
+[02:03:48] [Server thread/INFO]: RokuOji joined the game
+[02:35:10] [Server thread/INFO]: RokuOji lost connection: Disconnected
+[02:35:10] [Server thread/INFO]: RokuOji left the game
+[03:16:19] [Server thread/INFO]: aragiru[/114.124.195.103:49882] logged in with entity id 391881 at (801.0607449367704, 58.5625, 995.1576846212891)
+[03:16:19] [Server thread/INFO]: aragiru joined the game
+[03:19:42] [Server thread/INFO]: aragiru lost connection: Disconnected
+[03:19:42] [Server thread/INFO]: aragiru left the game
